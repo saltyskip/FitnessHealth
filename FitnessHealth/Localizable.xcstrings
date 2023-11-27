@@ -1,0 +1,231 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    ".5mi" : {
+
+    },
+    ".25mi" : {
+
+    },
+    "%@" : {
+
+    },
+    "%lld" : {
+
+    },
+    "<136BPM" : {
+
+    },
+    "1k" : {
+
+    },
+    "1mi" : {
+
+    },
+    "5k" : {
+
+    },
+    "32" : {
+
+    },
+    "137-148BPM" : {
+
+    },
+    "149-161BPM" : {
+
+    },
+    "162-174BPM" : {
+
+    },
+    "175+BPM" : {
+
+    },
+    "400m" : {
+
+    },
+    "570" : {
+
+    },
+    "800m" : {
+
+    },
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ" : {
+
+    },
+    "Active Energy Burned" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "燃焼カロリー"
+          }
+        }
+      }
+    },
+    "Age in HealthKit is required to calculate heart rate zones" : {
+
+    },
+    "Authorize HealthKit" : {
+
+    },
+    "Basal Energy Burned" : {
+
+    },
+    "BPM" : {
+
+    },
+    "Celsius" : {
+
+    },
+    "Dark" : {
+
+    },
+    "Dark Mode" : {
+
+    },
+    "Distance" : {
+
+    },
+    "Fahrenheit" : {
+
+    },
+    "Fitness" : {
+
+    },
+    "Ground Contact Time" : {
+
+    },
+    "Health" : {
+
+    },
+    "HealthKit Error" : {
+
+    },
+    "Heart Rate" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心拍数"
+          }
+        }
+      }
+    },
+    "Hello World" : {
+
+    },
+    "Home" : {
+
+    },
+    "Kilometers" : {
+
+    },
+    "Light" : {
+
+    },
+    "Miles" : {
+
+    },
+    "Pace" : {
+
+    },
+    "Please Authorize Health!" : {
+
+    },
+    "Preferences" : {
+
+    },
+    "Running Power" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パワー"
+          }
+        }
+      }
+    },
+    "Running Speed" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スピード"
+          }
+        }
+      }
+    },
+    "Running Stride Length" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歩幅"
+          }
+        }
+      }
+    },
+    "Settings" : {
+
+    },
+    "Split" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スプリット"
+          }
+        }
+      }
+    },
+    "Split Type" : {
+
+    },
+    "Splits" : {
+
+    },
+    "Step Count" : {
+
+    },
+    "Stride Length" : {
+
+    },
+    "System" : {
+
+    },
+    "Temperature" : {
+
+    },
+    "Temperature (°F)" : {
+
+    },
+    "Time" : {
+
+    },
+    "Today's Step Count" : {
+
+    },
+    "Vertical Oscillation" : {
+
+    },
+    "Zone 1" : {
+
+    },
+    "Zone 2" : {
+
+    },
+    "Zone 3" : {
+
+    },
+    "Zone 4" : {
+
+    },
+    "Zone 5" : {
+
+    }
+  },
+  "version" : "1.0"
+}
